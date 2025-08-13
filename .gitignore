@@ -21,4 +21,4 @@ Thumbs.db
 *.temp
 
 # Exclude all .DS_Store files recursively
-**/.DS_Store 
+**/.DS_Store
